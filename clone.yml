@@ -11,7 +11,7 @@
   tasks:
     - name: Cloning PG Blitz - From Installer
       git:
-        repo: 'https://github.com/maxerism/PGBlitz.com'
+        repo: 'https://github.com/maxPGblitz/PGBlitz.com'
         dest: /opt/plexguide
         version: 'raspi'
         force: yes
